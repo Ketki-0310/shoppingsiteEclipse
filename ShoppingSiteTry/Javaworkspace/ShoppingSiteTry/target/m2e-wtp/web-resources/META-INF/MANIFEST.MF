@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ShoppingSiteTry
+Implementation-Version: 1.0
+Built-By: vshadmin
+Implementation-Vendor-Id: com.lti.training.11
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ShoppingSiteTry
+Created-By: Maven Integration for Eclipse
+
